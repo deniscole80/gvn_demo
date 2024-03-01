@@ -1,0 +1,232 @@
+[28-Jan-2022 23:51:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[28-Jan-2022 23:51:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/giftingv/public_html/classes/DB/conn_db.php on line 6
+[04-Feb-2022 02:23:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 221
+[04-Feb-2022 02:23:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 02:23:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 186
+[04-Feb-2022 02:23:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:16:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:16:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 45
+[04-Feb-2022 08:16:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:16:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 68
+[04-Feb-2022 08:16:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:16:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:16:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 24
+[04-Feb-2022 08:16:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:16:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:16:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:16:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 45
+[04-Feb-2022 08:16:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 68
+[04-Feb-2022 08:16:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:16:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:16:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:16:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 68
+[04-Feb-2022 08:16:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:16:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:16:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 45
+[04-Feb-2022 08:16:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:20:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:20:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:20:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:20:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 68
+[04-Feb-2022 08:20:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:20:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 45
+[04-Feb-2022 08:20:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:20:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 45
+[04-Feb-2022 08:20:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 68
+[04-Feb-2022 08:20:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:20:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:20:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:21:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 68
+[04-Feb-2022 08:21:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:21:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:21:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 45
+[04-Feb-2022 08:21:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:21:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:21:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 24
+[04-Feb-2022 08:21:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:21:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:21:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 45
+[04-Feb-2022 08:21:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:21:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:21:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 68
+[04-Feb-2022 08:21:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:21:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:21:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 45
+[04-Feb-2022 08:21:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:21:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:21:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 68
+[04-Feb-2022 08:21:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:21:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:21:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:21:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 45
+[04-Feb-2022 08:21:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 68
+[04-Feb-2022 08:21:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:21:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:25:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:25:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 45
+[04-Feb-2022 08:25:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:25:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 68
+[04-Feb-2022 08:25:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:25:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:25:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 68
+[04-Feb-2022 08:25:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:25:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:25:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:25:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 45
+[04-Feb-2022 08:25:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:26:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:26:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 24
+[04-Feb-2022 08:26:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:26:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 68
+[04-Feb-2022 08:26:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:26:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:26:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 45
+[04-Feb-2022 08:26:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:35:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:35:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:35:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:35:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:35:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:37:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:37:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:37:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:37:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:37:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:38:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:38:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:38:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:38:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:38:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:39:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:39:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:39:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:39:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:39:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:40:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:40:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:40:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:40:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:40:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:40:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:40:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:40:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:40:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:40:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:41:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:41:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:41:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:41:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:41:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:41:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:41:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:41:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:41:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:41:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:42:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:42:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:42:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:42:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:42:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:44:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:44:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:44:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:44:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:44:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:48:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:48:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:48:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:48:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:49:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:49:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:49:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:49:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:49:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:54:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:54:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:54:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:54:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:54:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:54:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:54:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:54:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:54:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:54:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:54:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:54:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:54:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:54:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:56:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:56:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:56:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:56:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:56:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:56:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:56:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:56:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:56:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:56:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:57:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:57:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:57:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:57:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 08:57:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:57:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 08:57:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 08:57:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 08:57:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 08:57:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 09:00:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 09:00:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 09:00:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 09:00:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 09:00:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 09:01:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 09:01:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 09:01:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 09:01:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 09:01:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 09:03:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 09:03:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 204
+[04-Feb-2022 09:03:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 09:03:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[04-Feb-2022 09:03:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 09:41:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 239
+[04-Feb-2022 09:41:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 103
+[04-Feb-2022 09:41:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 127
+[04-Feb-2022 09:41:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/giftingv/public_html/classes/User.php on line 85
+[19-Feb-2022 14:29:06 UTC] PHP Notice:  Undefined index: name in /home/giftingv/public_html/classes/controller.php on line 37
+[19-Feb-2022 14:29:06 UTC] PHP Notice:  Undefined index: email in /home/giftingv/public_html/classes/controller.php on line 38
+[19-Feb-2022 14:29:06 UTC] PHP Notice:  Undefined index: pId in /home/giftingv/public_html/classes/controller.php on line 39
+[19-Feb-2022 14:44:06 UTC] PHP Notice:  Undefined index: name in /home/giftingv/public_html/classes/controller.php on line 37
+[19-Feb-2022 14:44:06 UTC] PHP Notice:  Undefined index: email in /home/giftingv/public_html/classes/controller.php on line 38
+[19-Feb-2022 14:44:06 UTC] PHP Notice:  Undefined index: pId in /home/giftingv/public_html/classes/controller.php on line 39
+[19-Feb-2022 15:43:34 UTC] PHP Notice:  Undefined index: name in /home/giftingv/public_html/classes/controller.php on line 37
+[19-Feb-2022 15:43:34 UTC] PHP Notice:  Undefined index: email in /home/giftingv/public_html/classes/controller.php on line 38
+[19-Feb-2022 15:43:34 UTC] PHP Notice:  Undefined index: pId in /home/giftingv/public_html/classes/controller.php on line 39
+[19-Feb-2022 15:59:12 UTC] PHP Notice:  Undefined index: name in /home/giftingv/public_html/classes/controller.php on line 37
+[19-Feb-2022 15:59:12 UTC] PHP Notice:  Undefined index: pId in /home/giftingv/public_html/classes/controller.php on line 39
+[19-Feb-2022 16:06:16 UTC] PHP Notice:  Undefined index: name in /home/giftingv/public_html/classes/controller.php on line 37
+[19-Feb-2022 16:06:16 UTC] PHP Notice:  Undefined index: pId in /home/giftingv/public_html/classes/controller.php on line 39
+[19-Feb-2022 19:17:14 UTC] PHP Notice:  Undefined index: email in /home/giftingv/public_html/classes/controller.php on line 52
+[19-Feb-2022 19:21:47 UTC] PHP Notice:  Undefined index: email in /home/giftingv/public_html/classes/controller.php on line 38
+[19-Feb-2022 22:43:21 UTC] PHP Notice:  Undefined index: email in /home/giftingv/public_html/classes/controller.php on line 38
+[22-Mar-2022 03:44:36 UTC] PHP Notice:  Undefined index: email in /home/giftingv/public_html/classes/controller.php on line 38
